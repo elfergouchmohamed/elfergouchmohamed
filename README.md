@@ -10,11 +10,10 @@
 <p>I’m familiar with a variety of skills including Cloud/Devops, Data Science, Machine Learning, Salesforce.</p>
 <p>I’m always adding new skills to my repertoire.</p>
 
-
+<img align ="right" alt="conding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elfergouchmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="elfergouchmohamed" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<img align ="right" alt="conding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <p align="left">
 <a href="https://linkedin.com/in/elfergouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elfergouch" height="30" width="40" /></a>
 </p>
