@@ -8,9 +8,10 @@
 <h2>Here's some facts about me: </h2>
 <p>I'm currently I'm a 4th year student at EMSI.</p>
 <p>I’m familiar with a variety of skills including Cloud/Devops, Data Science, Machine Learning, Salesforce.</p>
+<img align ="right" alt="conding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <p>I’m always adding new skills to my repertoire.</p>
 
-<img align ="right" alt="conding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elfergouchmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="elfergouchmohamed" /> </p>
 
 <h3 align="left">Connect with me:</h3>
