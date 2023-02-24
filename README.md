@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, Welcome in my Github profile </h1>
-<h3>I’ve always been a great problem solver 🔭</h3>
+<h3>I’ve always been a great problem solver </h3>
 
 
 
