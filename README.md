@@ -6,7 +6,7 @@
 
 
 <h2>Here's some facts about me: </h2>
-<p>I'm currently I'm a 4th year student at EMSI.</p>
+<p>I'm currently I'm a 5th year student at EMSI.</p>
 <p>I’m familiar with a variety of skills including Cloud/Devops, Data Science, Machine Learning, Salesforce.</p>
 <p>I’m always adding new skills to my repertoire.</p>
 
